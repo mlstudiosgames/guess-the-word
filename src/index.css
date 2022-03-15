@@ -217,3 +217,7 @@ svg.cursor-pointer:hover {
     font-weight: normal;
     font-style: normal;
 }
+
+.text-white {
+    font-family: AvenirNextLTPro-Regular !important;
+}
